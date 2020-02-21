@@ -1,6 +1,7 @@
-Samuel L. Jackson
-Chris Evans
-Ewan McGregor
-Scarlett Johansson
-Zoe Saldana
-Meryl Streep
+-Samuel L. Jackson
+-Jamie Foxx
+-Ewan McGregor
+-Scarlett Johansson
+-Zoe Saldana
+-Meryl Streep
+-Gary Oldman
